@@ -1,0 +1,170 @@
+ModLoad: 77670000 7768f000   C:\Windows\system32\IMM32.DLL
+ModLoad: 75820000 758ec000   C:\Windows\system32\MSCTF.dll
+ModLoad: 753f0000 753fc000   C:\Windows\system32\CRYPTBASE.DLL
+ModLoad: 747d0000 747d4000   C:\Windows\system32\api-ms-win-downlevel-shell32-l1-1-0.dll
+ModLoad: 76220000 76e6b000   C:\Windows\system32\shell32.DLL
+ModLoad: 6f590000 701d0000   C:\Windows\system32\IEFRAME.dll
+ModLoad: 75910000 75a6c000   C:\Windows\system32\ole32.dll
+ModLoad: 760a0000 7612f000   C:\Windows\system32\OLEAUT32.dll
+ModLoad: 74440000 745de000   C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll
+ModLoad: 73c80000 73ccb000   c:\Program Files\Internet Explorer\IEShims.dll
+ModLoad: 77480000 774fb000   C:\Windows\system32\comdlg32.dll
+ModLoad: 75520000 75524000   C:\Windows\system32\api-ms-win-downlevel-ole32-l1-1-0.dll
+ModLoad: 742c0000 74300000   C:\Windows\system32\uxtheme.dll
+ModLoad: 772a0000 77475000   C:\Windows\system32\WININET.dll
+ModLoad: 75530000 75547000   C:\Windows\system32\USERENV.dll
+ModLoad: 75510000 7551b000   C:\Windows\system32\profapi.dll
+ModLoad: 75360000 75368000   C:\Windows\system32\Secur32.dll
+ModLoad: 75380000 7539b000   C:\Windows\system32\SSPICLI.DLL
+ModLoad: 74750000 74754000   C:\Windows\system32\api-ms-win-downlevel-advapi32-l2-1-0.dll
+ModLoad: 76f00000 7704b000   C:\Windows\system32\urlmon.dll
+ModLoad: 75ad0000 75b05000   C:\Windows\system32\WS2_32.dll
+ModLoad: 77660000 77666000   C:\Windows\system32\NSI.dll
+ModLoad: 70990000 709e8000   C:\Windows\system32\winhttp.dll
+ModLoad: 70940000 7098f000   C:\Windows\system32\webio.dll
+ModLoad: 74ed0000 74f0c000   C:\Windows\system32\mswsock.dll
+ModLoad: 74ec0000 74ec6000   C:\Windows\System32\wship6.dll
+ModLoad: 73590000 735ac000   C:\Windows\system32\IPHLPAPI.DLL
+ModLoad: 73580000 73587000   C:\Windows\system32\WINNSI.DLL
+ModLoad: 74f10000 74f27000   C:\Windows\system32\CRYPTSP.dll
+ModLoad: 74cb0000 74ceb000   C:\Windows\system32\rsaenh.dll
+ModLoad: 75490000 7549e000   C:\Windows\system32\RpcRtRemote.dll
+ModLoad: 76e70000 76ef3000   C:\Windows\system32\CLBCatQ.DLL
+ModLoad: 73c30000 73c79000   C:\Program Files\Internet Explorer\ieproxy.dll
+ModLoad: 747b0000 747b4000   C:\Windows\system32\api-ms-win-downlevel-shlwapi-l2-1-0.dll
+ModLoad: 73f90000 73fa3000   C:\Windows\system32\dwmapi.dll
+ModLoad: 745e0000 74619000   C:\Program Files\Internet Explorer\sqmapi.dll
+ModLoad: 75040000 75057000   C:\Windows\system32\bcrypt.dll
+ModLoad: 74bf0000 74c2d000   C:\Windows\system32\bcryptprimitives.dll
+ModLoad: 6af90000 6c262000   C:\Windows\system32\MSHTML.dll
+ModLoad: 6f240000 6f587000   C:\Windows\system32\d2d1.dll
+ModLoad: 72690000 727c5000   C:\Windows\system32\DWrite.dll
+ModLoad: 71b90000 71bdc000   C:\Windows\system32\dxgi.dll
+ModLoad: 75f00000 7609d000   C:\Windows\system32\setupapi.dll
+ModLoad: 75750000 75777000   C:\Windows\system32\CFGMGR32.dll
+ModLoad: 75730000 75742000   C:\Windows\system32\DEVOBJ.dll
+ModLoad: 753a0000 753ec000   C:\Windows\system32\apphelp.dll
+ModLoad: 74020000 7404e000   C:\Windows\system32\MLANG.dll
+ModLoad: 74300000 743f5000   C:\Windows\system32\PROPSYS.dll
+ModLoad: 75780000 757af000   C:\Windows\system32\WINTRUST.dll
+ModLoad: 75550000 75671000   C:\Windows\system32\CRYPT32.dll
+ModLoad: 75500000 7550c000   C:\Windows\system32\MSASN1.dll
+ModLoad: 75f00000 7609d000   C:\Windows\system32\setupapi.dll
+ModLoad: 75750000 75777000   C:\Windows\system32\CFGMGR32.dll
+ModLoad: 75730000 75742000   C:\Windows\system32\DEVOBJ.dll
+ModLoad: 74d90000 74dd4000   C:\Windows\system32\DNSAPI.dll
+ModLoad: 72030000 7203d000   C:\Windows\system32\dhcpcsvc6.DLL
+ModLoad: 74a40000 74a45000   C:\Windows\System32\wshtcpip.dll
+ModLoad: 74d90000 74dd4000   C:\Windows\system32\DNSAPI.dll
+ModLoad: 73d80000 73d86000   C:\Windows\system32\rasadhlp.dll
+ModLoad: 72010000 72022000   C:\Windows\system32\dhcpcsvc.DLL
+ModLoad: 74a40000 74a45000   C:\Windows\System32\wshtcpip.dll
+ModLoad: 720e0000 72118000   C:\Windows\System32\fwpuclnt.dll
+ModLoad: 73d80000 73d86000   C:\Windows\system32\rasadhlp.dll
+ModLoad: 732e0000 73359000   C:\Windows\system32\IEUI.dll
+ModLoad: 74020000 7404e000   C:\Windows\system32\MLANG.dll
+ModLoad: 74300000 743f5000   C:\Windows\system32\PROPSYS.dll
+ModLoad: 72b90000 72c42000   C:\Windows\System32\ieapfltr.dll
+ModLoad: 74790000 7479b000   C:\Windows\system32\msimtf.dll
+ModLoad: 6ea80000 6eea4000   C:\Windows\System32\jscript9.dll
+ModLoad: 72150000 72171000   C:\Windows\system32\ntmarta.dll
+ModLoad: 76130000 76175000   C:\Windows\system32\WLDAP32.dll
+ModLoad: 75f00000 7609d000   C:\Windows\system32\SETUPAPI.dll
+ModLoad: 75750000 75777000   C:\Windows\system32\CFGMGR32.dll
+ModLoad: 75730000 75742000   C:\Windows\system32\DEVOBJ.dll
+ModLoad: 730b0000 730df000   C:\Windows\System32\shdocvw.dll
+ModLoad: 73bf0000 73c2c000   C:\Windows\system32\OLEACC.DLL
+ModLoad: 75400000 7545f000   C:\Windows\system32\SXS.DLL
+ModLoad: 72640000 7268a000   C:\Windows\System32\Dxtrans.dll
+ModLoad: 73730000 73744000   C:\Windows\System32\ATL.DLL
+ModLoad: 74430000 7443a000   C:\Windows\system32\ddrawex.dll
+ModLoad: 70fa0000 71087000   C:\Windows\system32\DDRAW.dll
+ModLoad: 74420000 74426000   C:\Windows\system32\DCIMAN32.dll
+ModLoad: 75f00000 7609d000   C:\Windows\system32\SETUPAPI.dll
+ModLoad: 75750000 75777000   C:\Windows\system32\CFGMGR32.dll
+ModLoad: 75730000 75742000   C:\Windows\system32\DEVOBJ.dll
+ModLoad: 73400000 73557000   C:\Windows\System32\msxml6.dll
+ModLoad: 71180000 711e9000   C:\Windows\System32\Dxtmsft.dll
+ModLoad: 73070000 730a1000   C:\Windows\system32\msls31.dll
+ModLoad: 71a10000 71b85000   C:\Windows\system32\d3d11.dll
+ModLoad: 6e890000 6ea79000   C:\Windows\system32\D3D10Warp.dll
+ModLoad: 72150000 72171000   C:\Windows\system32\ntmarta.dll
+ModLoad: 76130000 76175000   C:\Windows\system32\WLDAP32.dll
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+ModLoad: 75400000 7545f000   C:\Windows\system32\SXS.DLL
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+ModLoad: 70f10000 70f9c000   C:\Windows\system32\uiautomationcore.dll
+ModLoad: 77690000 77695000   C:\Windows\system32\PSAPI.DLL
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): C++ EH exception - code e06d7363 (first chance)
+(c80.298): Access violation - code c0000005 (first chance)
+First chance exceptions are reported before any exception handling.
+This exception may be expected and handled.
+eax=c190fd16 ebx=072e4bd0 ecx=072e4bd0 edx=0000001e esi=05101fa0 edi=00000000
+eip=6b237fb6 esp=04dcc5e8 ebp=04dcc718 iopl=0         nv up ei pl nz na pe nc
+cs=001b  ss=0023  ds=0023  es=0023  fs=003b  gs=0000             efl=00010206
+MSHTML!CDoc::GenerateMouseOverMessage+0x2d:
+6b237fb6 f7460800000200  test    dword ptr [esi+8],20000h ds:0023:05101fa8=????????
+1:018> ChildEBP RetAddr  Args to Child              
+04dcc718 6b237ede 04dcc778 05101fa0 00000000 MSHTML!CDoc::GenerateMouseOverMessage+0x2d (FPO: [4,73,4])
+04dcc890 6b221196 00000200 00000000 00b00188 MSHTML!CDoc::OnMouseMessage+0x6f4 (FPO: [7,85,4])
+04dcc8b8 6b221149 00000200 00000000 00b00188 MSHTML!CMouseHandler::HandleNonUserInteractionMessage+0x32 (FPO: [4,0,4])
+04dcc8e0 6b10a02c 00000200 00000000 00b00188 MSHTML!CMouseHandler::HandleMessage+0x32 (FPO: [Non-Fpo])
+04dcc90c 6b01c753 00000200 00000000 00b00188 MSHTML!CInputManager::HandleMessage+0xb7 (FPO: [5,2,4])
+04dccac8 6b01c680 072e4bd0 00000200 00000000 MSHTML!CDoc::OnWindowMessage+0xb3 (FPO: [Non-Fpo])
+04dccaf8 7706c4e7 04d00434 00000200 00000000 MSHTML!CServer::WndProc+0x6b (FPO: [4,2,4])
+04dccb24 7706c5e7 6b01c620 04d00434 00000200 user32!InternalCallWinProc+0x23
+04dccb9c 7706cc19 00000000 6b01c620 04d00434 user32!UserCallWinProcCheckWow+0x14b (FPO: [SEH])
+04dccbfc 7706cc70 6b01c620 00000000 04dcfddc user32!DispatchMessageWorker+0x35e (FPO: [SEH])
+04dccc0c 6f6b00d8 04dccc4c 00740e48 04e58fe0 user32!DispatchMessageW+0xf (FPO: [1,0,0])
+04dcfddc 6f6dd0d8 04dcfea8 6f6dcd50 00742ff0 IEFRAME!CTabWindow::_TabWindowThreadProc+0x464 (FPO: [Non-Fpo])
+04dcfe9c 75cbd81c 00740e48 04dcfec0 6f745f70 IEFRAME!LCIETab_ThreadProc+0x37b (FPO: [Non-Fpo])
+04dcfeb4 73c83991 00742ff0 00000000 00000000 iertutil!_IsoThreadProc_WrapperToReleaseScope+0x1c (FPO: [Non-Fpo])
+04dcfeec 7716ee1c 045b9fe8 04dcff38 7756399b IEShims!NS_CreateThread::DesktopIE_ThreadProc+0x94 (FPO: [1,8,4])
+04dcfef8 7756399b 045b9fe8 710f41bd 00000000 kernel32!BaseThreadInitThunk+0xe (FPO: [1,0,0])
+04dcff38 7756396e 73c83900 045b9fe8 ffffffff ntdll!__RtlUserThreadStart+0x70 (FPO: [SEH])
+04dcff50 00000000 73c83900 045b9fe8 00000000 ntdll!_RtlUserThreadStart+0x1b (FPO: [2,2,0])
+MSHTML!CDoc::GenerateMouseOverMessage+0x2d:
+6b237fb6 f7460800000200  test    dword ptr [esi+8],20000h
+6b237fbd 7448            je      MSHTML!CDoc::GenerateMouseOverMessage+0x165 (6b238007)
+6b237fbf 8bce            mov     ecx,esi
+6b237fc1 e85f75e1ff      call    MSHTML!CTreeNode::IsInViewTree (6b04f525)
+6b237fc6 85c0            test    eax,eax
+6b237fc8 743d            je      MSHTML!CDoc::GenerateMouseOverMessage+0x165 (6b238007)
+6b237fca ff7514          push    dword ptr [ebp+14h]
+6b237fcd 8b8ba8020000    mov     ecx,dword ptr [ebx+2A8h]
+start    end        module name
+6af90000 6c262000   MSHTML     (private pdb symbols)  c:\symbols\mshtml.pdb\7D830BF00DBB4B29A6F552AC8D1286102\mshtml.pdb
+    Loaded symbol image file: C:\Windows\system32\MSHTML.dll
+    Image path: C:\Windows\system32\MSHTML.dll
+    Image name: MSHTML.dll
+    Timestamp:        Thu Mar 12 20:40:55 2015 (55025C47)
+    CheckSum:         012C9B79
+    ImageSize:        012D2000
+    File version:     11.0.9600.17728
+    Product version:  11.0.9600.17728
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Internet Explorer
+    InternalName:     MSHTML
+    OriginalFilename: MSHTML.DLL
+    ProductVersion:   11.00.9600.17728
+    FileVersion:      11.00.9600.17728 (winblue_r9.150312-1720)
+    FileDescription:  Microsoft (R) HTML Viewer
+    LegalCopyright:   ? Microsoft Corporation. All rights reserved.
+1:018> 
